@@ -1,0 +1,44 @@
+[
+  {
+    "productId": 1,
+    "productName": "Laptop",
+    "brand": "Asus",
+    "quantity": 5,
+    "imageUrl": "1.jpg"
+  },
+  {
+    "productId": 2,
+    "productName": "Mobile",
+    "brand": "Asus",
+    "quantity": 2,
+    "imageUrl": "2.jpg"
+  },
+  {
+    "productId": 3,
+    "productName": "Bed Sheet",
+    "brand": "Matrus",
+    "quantity": 1,
+    "imageUrl": "3.jpg"
+  },
+  {
+    "productId": 4,
+    "productName": "Charger",
+    "brand": "Asus",
+    "quantity": 5,
+    "imageUrl": "4.jpg"
+  },
+  {
+    "productId": 5,
+    "productName": "Speaker",
+    "brand": "Asus",
+    "quantity": 5,
+    "imageUrl": "5.jpg"
+  },
+  {
+    "productId": 6,
+    "productName": "Motherboard",
+    "brand": "Asus",
+    "quantity": 5,
+    "imageUrl": "6.jpg"
+  }
+]
